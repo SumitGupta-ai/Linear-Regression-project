@@ -1,4 +1,5 @@
 📊 Salary vs Experience Prediction using Linear Regression
+
 📌 Project Description
 
 This mini project predicts salary based on years of experience using Linear Regression.

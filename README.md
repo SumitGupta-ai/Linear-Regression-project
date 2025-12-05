@@ -10,19 +10,21 @@ Input Feature: Years of Experience
 
 Target Variable: Salary
 
+
 ⚙️ Project Workflow
 
-Load the dataset
+1 Load the dataset
 
-Perform basic data analysis
+2 Perform basic data analysis
 
-Split data into training and testing sets
+3 Split data into training and testing sets
 
-Train the Linear Regression model
+4 Train the Linear Regression model
 
-Predict salary for given experience
+5 Predict salary for given experience
 
-Visualize the regression results
+6 Visualize the regression results
+
 
 🛠 Technologies Used
 
@@ -36,6 +38,7 @@ Matplotlib
 
 Scikit-learn
 
+
 📈 Results
 
 Model successfully learns the relationship between experience and salary
@@ -43,6 +46,7 @@ Model successfully learns the relationship between experience and salary
 Generates salary predictions based on input experience
 
 Regression line visually fits the dataset
+
 
 ✅ What I Learned
 
@@ -54,6 +58,7 @@ Making predictions with a trained ML model
 
 Visualizing results for better understanding
 
+
 🚀 Future Enhancements
 
 Improve accuracy with more data
@@ -62,4 +67,3 @@ Add evaluation metrics (R², MAE, MSE)
 
 Extend project to Multiple Linear Regression
 
-👤 Author

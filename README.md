@@ -4,7 +4,7 @@
 
 **project(2)**
 
-## House price Prediction project
+## 🏠House price Prediction project
 ---
 
 📌 Project Description

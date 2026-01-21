@@ -1,4 +1,11 @@
-📊 Salary vs Experience Prediction using Linear Regression
+**project(1)** 
+## 📊 Salary vs Experience Prediction using Linear Regression
+---
+
+**project(2)**
+
+## House price Prediction project
+---
 
 📌 Project Description
 

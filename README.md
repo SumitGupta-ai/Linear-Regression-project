@@ -18,7 +18,6 @@ Input Feature: Years of Experience
 
 Target Variable: Salary
 
-
 ⚙️ Project Workflow
 
 1 Load the dataset

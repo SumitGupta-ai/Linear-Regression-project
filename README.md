@@ -7,7 +7,7 @@
 ## 🏠House price Prediction project
 ---
 
-📌 Project Description
+## 📌 Project Description
 
 This mini project predicts salary based on years of experience using Linear Regression.
 The objective is to understand how a machine learning model can learn patterns from data and make predictions.

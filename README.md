@@ -33,7 +33,7 @@ Target Variable: Salary
 6 Visualize the regression results
 
 
-🛠 Technologies Used
+## 🛠 Technologies Used
 
 Python
 
